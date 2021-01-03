@@ -60,9 +60,9 @@
 
 			#pragma multi_compile __ UNITY_UI_ALPHACLIP
 
-			#pragma multi_compile __ GRAYSCALE SEPIA NEGA PIXEL
-			#pragma multi_compile __ ADD SUBTRACT FILL
-			#pragma multi_compile __ FASTBLUR MEDIUMBLUR DETAILBLUR
+			//#pragma multi_compile __ GRAYSCALE SEPIA NEGA PIXEL
+			//#pragma multi_compile __ ADD SUBTRACT FILL
+			//#pragma multi_compile __ FASTBLUR MEDIUMBLUR DETAILBLUR
 			#pragma multi_compile __ EX
 
 			#include "UnityCG.cginc"
