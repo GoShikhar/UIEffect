@@ -76,12 +76,13 @@ TextureImporter:
     overridden: 0
   - buildTarget: Android
     maxTextureSize: 256
-    textureFormat: -1
+    textureFormat: 29
     textureCompression: 1
     compressionQuality: 100
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
+	forceMaximumCompressionQuality_BC6H_BC7: 0
   - buildTarget: WebGL
     maxTextureSize: 256
     textureFormat: -1
